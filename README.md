@@ -75,3 +75,7 @@ action potential: ropes exercise
 
 "build up to action potential": have every exercise count as one token, wait until
 the exercises have done "enough" to reach threshold and the person runs.
+
+## Adding to binary tree: [insertion](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
+- add exercises to binary tree, doing each exercise as we traverse down until
+  we find the spot where it belongs
